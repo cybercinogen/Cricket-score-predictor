@@ -25,7 +25,7 @@ To get started with this project, clone the repository and install the necessary
 
 bash
 Copy code
-git clone https://github.com/yourusername/cricket-score-predictor.git
+git clone https://github.com/cybercinogen/cricket-score-predictor.git
 cd cricket-score-predictor
 pip install -r requirements.txt
 Dataset
